@@ -14,8 +14,9 @@
       h1, h2 { color: #333; }
       .back-link { display: inline-block; margin-bottom: 20px; text-decoration: none; color: #555; font-weight: 600; }
       .back-link:hover { text-decoration: underline; }
-      .publication-item { margin-bottom: 15px; }
+      .publication-item { margin-bottom: 25px; list-style-type: none; } /* Added spacing and removed bullet for cleaner look */
       .publication-title { font-weight: 600; }
+      .publication-abstract { margin-top: 8px; font-size: 0.95em; color: #444; text-align: justify; }
     </style>
   </head>
 
@@ -36,21 +37,24 @@
 
     <section>
       <h2>Working Papers</h2>
-      <ul>
-        <li class="publication-item">
-          <div class="publication-title"><a href="https://arxiv.org/abs/2601.10565">Inferring signed social networks from contact patterns</div> 
+      <ul style="padding-left: 0;"> <li class="publication-item">
+          <div class="publication-title">
+            <a href="https://arxiv.org/abs/2601.10565">Inferring signed social networks from contact patterns</a>
+          </div> 
           <div><em>Dávid Ferenczi, Jean-Gabriel Young, Leto Peel</em></div>
-          <div>Social networks are typically inferred from indirect observations, such as proximity data; yet, most methods cannot distinguish between absent relationships and actual negative ties, as both can result in few or no interactions. We address the challenge of inferring signed networks from contact patterns while accounting for whether lack of interactions reflect a lack of opportunity as opposed to active avoidance. We develop a Bayesian framework with MCMC inference that models interaction groups to separate chance from choice when no interactions are observed. Validation on synthetic data demonstrates superior performance compared to natural baselines, particularly in detecting negative edges. We apply our method to French high school contact data to reveal a structure consistent with friendship surveys and demonstrate the model's adequacy through posterior predictive checks.
-</div>
+          <div class="publication-abstract">
+            Social networks are typically inferred from indirect observations, such as proximity data; yet, most methods cannot distinguish between absent relationships and actual negative ties, as both can result in few or no interactions. We address the challenge of inferring signed networks from contact patterns while accounting for whether lack of interactions reflect a lack of opportunity as opposed to active avoidance. We develop a Bayesian framework with MCMC inference that models interaction groups to separate chance from choice when no interactions are observed. Validation on synthetic data demonstrates superior performance compared to natural baselines, particularly in detecting negative edges. We apply our method to French high school contact data to reveal a structure consistent with friendship surveys and demonstrate the model's adequacy through posterior predictive checks.
+          </div>
+        </li>
       </ul>
     </section>
 
     <section>
       <h2>Conference Presentations</h2>
       <ul>
-        <li><strong>NetSci 2024:</strong>Lightning talk: Inferring signed social networks from contact patterns</li>
-        <li><strong>CCS 2024:</strong>Contributed talk: Inferring signed social networks from contact patterns</li>
-        <li><strong>Netsci 2025: :</strong>Poster: Inferring signed social networks from contact patterns</li>
+        <li><strong>NetSci 2024:</strong> Lightning talk: Inferring signed social networks from contact patterns</li>
+        <li><strong>CCS 2024:</strong> Contributed talk: Inferring signed social networks from contact patterns</li>
+        <li><strong>NetSci 2025:</strong> Poster: Inferring signed social networks from contact patterns</li>
       </ul>
     </section>
   </body>
