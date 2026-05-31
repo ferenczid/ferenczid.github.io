@@ -1,8 +1,9 @@
 # World Cup 2026 Betting Game Files
 tournament_generator.py
+update_leaderboard.sh
 games.txt
 results.txt
-bets/
+
 
 # General Python cache files (good practice)
 __pycache__/
