@@ -6,3 +6,67 @@ Qatar vs Switzerland:2-3 # June 13, 21:00 CEST
 Brazil vs Morocco:1-4 # June 14, 00:00 CEST
 Haiti vs Scotland:1-1 # June 14, 03:00 CEST
 Australia vs Türkiye:1-1 # June 14, 06:00 CEST
+Germany vs Curaçao:  # June 14, 19:00 CEST
+Netherlands vs Japan:  # June 14, 22:00 CEST
+Ivory Coast vs Ecuador:  # June 15, 01:00 CEST
+Sweden vs Tunisia:  # June 15, 04:00 CEST
+Spain vs Cape Verde:  # June 15, 18:00 CEST
+Belgium vs Egypt:  # June 15, 21:00 CEST
+Saudi Arabia vs Uruguay:  # June 16, 00:00 CEST
+Iran vs New Zealand:  # June 16, 03:00 CEST
+France vs Senegal:  # June 16, 21:00 CEST
+Iraq vs Norway:  # June 17, 00:00 CEST
+Argentina vs Algeria:  # June 17, 03:00 CEST
+Austria vs Jordan:  # June 17, 06:00 CEST
+Portugal vs DR Congo:  # June 17, 19:00 CEST
+England vs Croatia:  # June 17, 22:00 CEST
+Ghana vs Panama:  # June 18, 01:00 CEST
+Uzbekistan vs Colombia:  # June 18, 04:00 CEST
+South Africa vs Czech Republic:  # June 18, 18:00 CEST
+Bosnia and Herzegovina vs Switzerland:  # June 18, 21:00 CEST
+Canada vs Qatar:  # June 19, 00:00 CEST
+Mexico vs South Korea:  # June 19, 03:00 CEST
+United States vs Australia:  # June 19, 21:00 CEST
+Morocco vs Scotland:  # June 20, 00:00 CEST
+Brazil vs Haiti:  # June 20, 02:30 CEST
+Paraguay vs Türkiye:  # June 20, 05:00 CEST
+Netherlands vs Sweden:  # June 20, 19:00 CEST
+Germany vs Ivory Coast:  # June 20, 22:00 CEST
+Curaçao vs Ecuador:  # June 21, 02:00 CEST
+Japan vs Tunisia:  # June 21, 06:00 CEST
+Spain vs Saudi Arabia:  # June 21, 18:00 CEST
+Belgium vs Iran:  # June 21, 21:00 CEST
+France vs Iraq:  # June 21, 23:00 CEST
+Cape Verde vs Uruguay:  # June 22, 00:00 CEST
+Egypt vs New Zealand:  # June 22, 03:00 CEST
+Argentina vs Austria:  # June 22, 19:00 CEST
+Senegal vs Norway:  # June 23, 02:00 CEST
+Algeria vs Jordan:  # June 23, 05:00 CEST
+Portugal vs Uzbekistan:  # June 23, 19:00 CEST
+England vs Ghana:  # June 23, 22:00 CEST
+Croatia vs Panama:  # June 24, 01:00 CEST
+DR Congo vs Colombia:  # June 24, 04:00 CEST
+Brazil vs Scotland:  # June 25, 00:00 CEST
+Morocco vs Haiti:  # June 25, 00:00 CEST
+Mexico vs Czech Republic:  # June 25, 03:00 CEST
+South Africa vs South Korea:  # June 25, 03:00 CEST
+Canada vs Switzerland:  # June 25, 21:00 CEST
+Bosnia and Herzegovina vs Qatar:  # June 25, 21:00 CEST
+Germany vs Ecuador:  # June 25, 22:00 CEST
+Curaçao vs Ivory Coast:  # June 25, 22:00 CEST
+Netherlands vs Tunisia:  # June 26, 01:00 CEST
+Japan vs Sweden:  # June 26, 01:00 CEST
+United States vs Türkiye:  # June 26, 04:00 CEST
+Paraguay vs Australia:  # June 26, 04:00 CEST
+France vs Norway:  # June 26, 21:00 CEST
+Senegal vs Iraq:  # June 26, 21:00 CEST
+Spain vs Uruguay:  # June 27, 02:00 CEST
+Cape Verde vs Saudi Arabia:  # June 27, 02:00 CEST
+Belgium vs New Zealand:  # June 27, 05:00 CEST
+Egypt vs Iran:  # June 27, 05:00 CEST
+England vs Panama:  # June 27, 23:00 CEST
+Croatia vs Ghana:  # June 27, 23:00 CEST
+Portugal vs Colombia:  # June 28, 01:30 CEST
+DR Congo vs Uzbekistan:  # June 28, 01:30 CEST
+Argentina vs Jordan:  # June 28, 04:00 CEST
+Algeria vs Austria:  # June 28, 04:00 CEST
