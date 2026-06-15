@@ -3,7 +3,7 @@ tournament_generator.py
 update_leaderboard.sh
 games.txt
 results.txt
-
+distribute_games.py
 
 # General Python cache files (good practice)
 __pycache__/
